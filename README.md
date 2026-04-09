@@ -104,14 +104,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=genericmilk&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=ff6b9d&icon_color=ffa94d&text_color=b8b8d4&ring_color=cc5de8" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genericmilk&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=ff6b9d&text_color=b8b8d4" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=genericmilk&hide_border=true&background=0A0A1A&ring=CC5DE8&fire=FF6B6B&currStreakLabel=B8B8D4&sideLabels=B8B8D4&currStreakNum=F0F0FF&sideNums=F0F0FF&dates=B8B8D4&stroke=B8B8D4" alt="GitHub Streak" />
 </div>
 
----
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=genericmilk&hide_border=true&background=0A0A1A&ring=CC5DE8&fire=FF6B6B&currStreakLabel=B8B8D4&sideLabels=B8B8D4&currStreakNum=F0F0FF&sideNums=F0F0FF&dates=B8B8D4&stroke=B8B8D4" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genericmilk&theme=github_dark" alt="Contribution Graph" width="800" />
 </div>
 
 ---
