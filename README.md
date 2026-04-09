@@ -34,19 +34,21 @@
 
 ### 🛠️ `CORE SKILLS`
 
-| 🔴 Backend | 🔵 Frontend | 🟢 DevOps & Cloud | 🟣 AI & Automation |
-|:--------|:---------|:---------------|:----------------|
-| PHP 8.4 | Vue 3 | AWS (EC2, RDS, S3) | OpenAI APIs |
-| Laravel 12 | Tailwind | Docker | Naive Bayes ML |
-| REST APIs | Nuxt | Linux | NER Models |
-| Redis | React | CI/CD | Puppeteer |
-| MySQL | SPA/PWA | Nginx | Headless Automation |
-| Queues (SQS) | SCSS | GitHub Actions | |
-| TDD | | | |
+🔴 **Backend** — PHP 8.4, Laravel 12, REST APIs, Redis, MySQL, TDD
+<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,redis,mysql" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,react,tailwind,nuxt,redis,mysql,aws,docker,linux,nginx,github,vscode,figma&perline=15" alt="Tech Stack" />
-</div>
+🔵 **Frontend** — Vue 3, React, Tailwind, Nuxt, SPA/PWA, SCSS
+<br/>
+<img src="https://skillicons.dev/icons?i=vue,react,tailwind,nuxt,html,css" />
+
+🟢 **DevOps & Cloud** — AWS, Docker, Linux, CI/CD, Nginx, GitHub Actions
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,github,githubactions" />
+
+🟣 **AI & Automation** — OpenAI APIs, Naive Bayes ML, NER Models, Puppeteer
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nodejs,ts" />
 
 ---
 
