@@ -13,9 +13,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Gloucester,_UK-b8b8d4?style=flat-square&labelColor=0a0a1a&color=b8b8d4" />&nbsp;
-  <img src="https://img.shields.io/badge/He/Him-b8b8d4?style=flat-square&labelColor=0a0a1a&color=b8b8d4" />&nbsp;
-  <img src="https://img.shields.io/badge/🏳️‍🌈_LGBTQ+-cc5de8?style=flat-square&labelColor=0a0a1a&color=cc5de8" />
+  <img src="https://img.shields.io/badge/📍_Gloucester,_UK-0a0a1a?style=flat-square&labelColor=0a0a1a&color=0a0a1a" />&nbsp;
+  <img src="https://img.shields.io/badge/He/Him-0a0a1a?style=flat-square&labelColor=0a0a1a&color=0a0a1a" />&nbsp;
+  <img src="https://img.shields.io/badge/🏳️‍🌈_LGBTQ+-0a0a1a?style=flat-square&labelColor=0a0a1a&color=0a0a1a" />
 </div>
 
 <br/>
