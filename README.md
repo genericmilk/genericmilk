@@ -107,10 +107,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=genericmilk&hide_border=true&background=0A0A1A&ring=CC5DE8&fire=FF6B6B&currStreakLabel=B8B8D4&sideLabels=B8B8D4&currStreakNum=F0F0FF&sideNums=F0F0FF&dates=B8B8D4&stroke=B8B8D4" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genericmilk&theme=github_dark" alt="Contribution Graph" width="800" />
-</div>
-
 ---
 
 <div align="center">
